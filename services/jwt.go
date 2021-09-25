@@ -4,8 +4,8 @@ import (
 	"os"
 	"time"
 
-	"codedolphin.io/users-service/models"
 	"github.com/golang-jwt/jwt"
+	"linkbulb.io/users-service/models"
 )
 
 func GenerateJWT(user models.User) (string, int64) {

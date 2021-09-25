@@ -1,4 +1,4 @@
-module codedolphin.io/users-service
+module linkbulb.io/users-service
 
 go 1.16
 

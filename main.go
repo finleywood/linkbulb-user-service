@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"codedolphin.io/users-service/models"
-	"codedolphin.io/users-service/routes"
 	"github.com/joho/godotenv"
+	"linkbulb.io/users-service/models"
+	"linkbulb.io/users-service/routes"
 )
 
 func main() {

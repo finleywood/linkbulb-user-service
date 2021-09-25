@@ -3,9 +3,9 @@ package routes
 import (
 	"net/http"
 
-	"codedolphin.io/users-service/models"
-	"codedolphin.io/users-service/services"
 	"github.com/gofiber/fiber/v2"
+	"linkbulb.io/users-service/models"
+	"linkbulb.io/users-service/services"
 )
 
 func initUserRoutes() {
